@@ -1,0 +1,755 @@
+<object-stream>
+  <list>
+    <Player>
+      <name>Daemon</name>
+      <cash>400000.0</cash>
+      <debt>500000.0</debt>
+      <offBoardDrills/>
+      <sitesTested>0</sitesTested>
+      <concessionsBought>0</concessionsBought>
+    </Player>
+    <Player>
+      <name>Andy </name>
+      <cash>900000.0</cash>
+      <debt>1000000.0</debt>
+      <offBoardDrills/>
+      <sitesTested>0</sitesTested>
+      <concessionsBought>0</concessionsBought>
+    </Player>
+    <Player>
+      <name>Laurie</name>
+      <cash>900000.0</cash>
+      <debt>1000000.0</debt>
+      <offBoardDrills/>
+      <sitesTested>0</sitesTested>
+      <concessionsBought>0</concessionsBought>
+    </Player>
+  </list>
+  <Board>
+    <spaces>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>0</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>7427126491990</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>1</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>7183228734614</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>2</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>128931699994872</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>3</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>104797444594911</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>4</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>166892292904178</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>100000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>5</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>32074138245123</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>6</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>39076801589198</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>7</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>167558208470521</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>Large Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>100000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>8</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>79040543297620</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>9</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>146485859777911</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Large Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>100000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>10</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>161196750835174</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>11</index>
+        <owner></owner>
+        <seen>
+          <string>Andy </string>
+        </seen>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>69396405643877</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>12</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>55571475505632</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>Large Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>13</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>121277995352666</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>14</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>120579561595193</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>15</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>220478801801342</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Large Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>16</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>180629846100765</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>17</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>21036907894124</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>18</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>119532808885343</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>19</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>212263375220678</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>20</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>99069968191921</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>100000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>21</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>148880601157800</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>22</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>132526681969518</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>100000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>23</index>
+        <owner></owner>
+        <seen>
+          <string>Daemon</string>
+        </seen>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>122559177848281</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>No Oil</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>24</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>12621220779844</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Deep Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Heavy Drill</drillType>
+          <drillPrice>500000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>25</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>191245011123671</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Reefs</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Special Drill</drillType>
+          <drillPrice>250000.0</drillPrice>
+          <barrels>100000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>26</index>
+        <owner></owner>
+        <seen/>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>202270939347890</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Small Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>40000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+      <Space>
+        <quadrant>North West</quadrant>
+        <index>27</index>
+        <owner></owner>
+        <seen>
+          <string>Laurie</string>
+        </seen>
+        <card>
+          <randomGenerator serialization="custom">
+            <java.util.Random>
+              <default>
+                <seed>129482906093</seed>
+                <nextNextGaussian>0.0</nextNextGaussian>
+                <haveNextNextGaussian>false</haveNextNextGaussian>
+              </default>
+            </java.util.Random>
+          </randomGenerator>
+          <typeOfWater>Shallow Water</typeOfWater>
+          <depositSize>Medium Deposits</depositSize>
+          <drillType>Light Drill</drillType>
+          <drillPrice>100000.0</drillPrice>
+          <barrels>20000.0</barrels>
+        </card>
+        <bought>false</bought>
+        <rig>false</rig>
+      </Space>
+    </spaces>
+    <taxesData>
+      <randomGenerator serialization="custom">
+        <java.util.Random>
+          <default>
+            <seed>90427198390831</seed>
+            <nextNextGaussian>0.0</nextNextGaussian>
+            <haveNextNextGaussian>false</haveNextNextGaussian>
+          </default>
+        </java.util.Random>
+      </randomGenerator>
+      <government>Labour</government>
+      <capTax>0.75</capTax>
+      <revTax>0.25</revTax>
+      <interest>0.05</interest>
+    </taxesData>
+    <oilPriceData>
+      <randomGenerator serialization="custom">
+        <java.util.Random>
+          <default>
+            <seed>274051165326184</seed>
+            <nextNextGaussian>0.0</nextNextGaussian>
+            <haveNextNextGaussian>false</haveNextNextGaussian>
+          </default>
+        </java.util.Random>
+      </randomGenerator>
+      <price>20.0</price>
+    </oilPriceData>
+    <weatherData>
+      <randomGenerator serialization="custom">
+        <java.util.Random>
+          <default>
+            <seed>230641336092140</seed>
+            <nextNextGaussian>0.0</nextNextGaussian>
+            <haveNextNextGaussian>false</haveNextNextGaussian>
+          </default>
+        </java.util.Random>
+      </randomGenerator>
+      <season>Winter</season>
+      <directions>
+        <string>Rough</string>
+        <string>Good</string>
+        <string>Gale</string>
+        <string>Rough</string>
+      </directions>
+    </weatherData>
+  </Board>
+</object-stream>
